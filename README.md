@@ -15,6 +15,8 @@ Tim 12E :
 
 Dalam pengerjaan proyek tim ini, kami menentukan tema web travel agent. Alasan kami memilih tema tersebut adalah karena begitu banyaknya destinasi wisata menarik yang ada di Indonesia ini, sehingga memudahkan kami mencari referensi. Untuk kontennya sendiri kami mengambil 3 referensi destinasi wisata yang terkenal di Nusa Tenggara Timur.
 
+Adapun tujuan dari proyek pembuatan website ini adalah sebagai latihan dalam membangun website bersama tim sebagai acuan dalam penilaian dari hasil pembelajaran kami selama menjalani program Studi independen Digital Leadership through Coding dari Kampus Merdeka dan Progate.
+
 # Preview
 
 ![Screenshot_0](https://user-images.githubusercontent.com/87058053/137501624-b19d6cb2-42d9-4962-a16f-61ccbb3625bc.jpg)
