@@ -13,4 +13,4 @@ Tim 12E :
 3. Muhammad Rizky Abadi
 4. Muhammad Rifky An-Nuary
 
-Dalam pengerjaan proyek tim ini, kami menentukan tema web travel agent dengan mengambil referensi 3 destinasi wisata di Nusa Tenggara Timur sebagai konten utama.
+Dalam pengerjaan proyek tim ini, kami menentukan tema web travel agent. Alasan kami memilih tema tersebut adalah karena begitu banyaknya destinasi wisata menarik yang ada di Indonesia ini, sehingga memudahkan kami mencari referensi. Untuk kontennya sendiri kami mengambil 3 referensi destinasi wisata yang terkenal di Nusa Tenggara Timur.
